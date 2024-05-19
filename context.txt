@@ -1,0 +1,4 @@
+Hello, This is my Javacript Project.
+This Project uses the OpenWeather API to display the weather details based on the City.
+The user has to enter the city/state/country/continent and the wesite will return temperature and 
+weather conditions along with weather icon.
